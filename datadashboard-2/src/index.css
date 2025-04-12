@@ -1,0 +1,94 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.app-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  height: 100vh;
+  background-color:aqua;
+  background-size: cover;
+  padding: 20px;
+}
+
+.history-section {
+  width: 20%;
+  background: rgba(255, 255, 255, 0.7);
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.history-img {
+  width: 50px;
+  height: 50px;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+.main-content {
+  width: 50%;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.6);
+  color: white;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.discover-button {
+  background-color: white;
+  color: black;
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+  border-radius: 8px;
+}
+
+.cat-display img {
+  width: 250px;
+  height: 200px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.ban-list {
+  width: 20%;
+  background: lightgray;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.attribute-buttons {
+  display: block;
+  margin: 5px;
+  padding: 8px;
+  cursor: pointer;
+}
+
+.banned-buttons {
+  background-color: red;
+  color: white;
+}
+
+.weather-list {
+  width: 80%;
+  margin: 30px auto 0 auto;
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 12px;
+  padding: 20px;
+  text-align: left;
+}
+
+.weather-list table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.weather-list th,
+.weather-list td {
+  padding: 10px;
+  border-bottom: 1px solid #ffd6a5;
+}
