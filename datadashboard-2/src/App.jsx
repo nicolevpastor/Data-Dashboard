@@ -129,6 +129,9 @@ return (
   <div className="App">
     <header className="header">
       <h1>Weather Forecast</h1>
+      <p>
+  This line chart shows the 7-day forecast for temperature. You can observe how temperatures fluctuate and identify trends. Below, the scatter plot helps compare humidity with wind speed.
+</p>
       <h2>Current Time: {currentTime}</h2>
       <h3>Weather Time</h3>
     </header>
