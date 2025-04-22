@@ -23,7 +23,7 @@ This web app: Using Weather Forecast API to deliver results like information, da
 
 ## Notes
 
-Challenges were combining both APIs and feature the graphs. I had a hard time how to place those and which graphs and how to implement that. Also thinking what categories with weather to make them. 
+Challenges were combining both APIs and featuring the graphs. I had a hard time deciding how to place those and which graphs and how to implement that. Also thinking about what categories with weather to make them. (My account for assignments is linked again as a collaborator with this personal account of mine).
 
 
   
