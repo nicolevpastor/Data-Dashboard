@@ -5,12 +5,12 @@ CodePath
 This web app: Using Weather Forecast API to deliver results like information, data visualization charts.
 
 
-- [X]The site has a dashboard displaying a list of data fetched using an API call
-- [X]useEffect() React hook and async/await syntax are used
-- [X]Includes three summary statistics about the data
-- [X]A search bar allows the user to search for an item in the fetched data
-- [X]Includes two charts developed using the fetched data
-- [X]Customized dashboard contains more content that explains what is interesting about the data
+- The site has a dashboard displaying a list of data fetched using an API call
+- useEffect() React hook and async/await syntax are used
+- Includes three summary statistics about the data
+- A search bar allows the user to search for an item in the fetched data
+- Includes two charts developed using the fetched data
+- Customized dashboard contains more content that explains what is interesting about the data
 
 ## Video Walkthrough
 <div>
